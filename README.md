@@ -1,2 +1,2 @@
 # Extract-Stock-Data
-Modeled after IMB Data Science course project
+Libraries: yfinance, beautifulSoup,requests, plotly,pandas
